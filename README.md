@@ -1,5 +1,5 @@
 ### 👋 Hi! My name is yohny!
-I'm ambitious developer from poland!
+<h3 align="center">I'm ambitious developer from poland!</h3>
 
 - 🔭 I’m currently working on **Nero Discord Bot**
 - 🌱 I’m currently learning **JavaScript**
