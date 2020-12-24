@@ -1,4 +1,4 @@
-### 👋 Hi! My name is yohny!
+<h1 align="center">Hi!👋 My name is yohny!</h1>
 <h3 align="center">I'm ambitious developer from poland!</h3>
 
 - 🔭 I’m currently working on **Nero Discord Bot**
