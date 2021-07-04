@@ -10,5 +10,5 @@
   <img src="https://discord.c99.nl/widget/theme-4/838150992310435851.png" />
 </p>
 <p align="center">
-Currently learning **Lua**
+Currently learning Lua
 <p align="center">
